@@ -1,6 +1,6 @@
 # DigitalOcean MCP Prototype
 
-List your app platform apps, view alerts and deployments.
+List your app platform apps, view alerts and deployments using the [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol).
 
 ## Setup
 
